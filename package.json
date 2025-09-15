@@ -1,0 +1,23 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000L\u0000a\u0000b\u00002\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"(Sin pruebas todavía)\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MancillaLui/Lab2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MancillaLui/Lab2/issues"
+  },
+  "homepage": "https://github.com/MancillaLui/Lab2#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
